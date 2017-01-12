@@ -1,0 +1,14 @@
+F:\visual studio 2015\ProcessManager\bin\Release\ProcessManager.exe.config
+F:\visual studio 2015\ProcessManager\bin\Release\ProcessManager.exe
+F:\visual studio 2015\ProcessManager\bin\Release\ProcessManager.pdb
+F:\visual studio 2015\ProcessManager\obj\Release\MainWindow.g.cs
+F:\visual studio 2015\ProcessManager\obj\Release\App.g.cs
+F:\visual studio 2015\ProcessManager\obj\Release\ProcessManager_MarkupCompile.cache
+F:\visual studio 2015\ProcessManager\obj\Release\ProcessManager_MarkupCompile.lref
+F:\visual studio 2015\ProcessManager\obj\Release\MainWindow.baml
+F:\visual studio 2015\ProcessManager\obj\Release\ProcessManager.g.resources
+F:\visual studio 2015\ProcessManager\obj\Release\ProcessManager.Properties.Resources.resources
+F:\visual studio 2015\ProcessManager\obj\Release\ProcessManager.csproj.GenerateResource.Cache
+F:\visual studio 2015\ProcessManager\obj\Release\ProcessManager.exe
+F:\visual studio 2015\ProcessManager\obj\Release\ProcessManager.pdb
+F:\visual studio 2015\ProcessManager\obj\Release\ProcessManager.csprojResolveAssemblyReference.cache

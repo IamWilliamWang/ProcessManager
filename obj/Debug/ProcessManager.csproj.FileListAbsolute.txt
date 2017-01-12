@@ -1,0 +1,13 @@
+F:\visual studio 2015\ProcessManager\bin\Debug\ProcessManager.exe.config
+F:\visual studio 2015\ProcessManager\bin\Debug\ProcessManager.exe
+F:\visual studio 2015\ProcessManager\bin\Debug\ProcessManager.pdb
+F:\visual studio 2015\ProcessManager\obj\Debug\MainWindow.g.cs
+F:\visual studio 2015\ProcessManager\obj\Debug\App.g.cs
+F:\visual studio 2015\ProcessManager\obj\Debug\ProcessManager_MarkupCompile.cache
+F:\visual studio 2015\ProcessManager\obj\Debug\ProcessManager_MarkupCompile.lref
+F:\visual studio 2015\ProcessManager\obj\Debug\MainWindow.baml
+F:\visual studio 2015\ProcessManager\obj\Debug\ProcessManager.g.resources
+F:\visual studio 2015\ProcessManager\obj\Debug\ProcessManager.Properties.Resources.resources
+F:\visual studio 2015\ProcessManager\obj\Debug\ProcessManager.csproj.GenerateResource.Cache
+F:\visual studio 2015\ProcessManager\obj\Debug\ProcessManager.exe
+F:\visual studio 2015\ProcessManager\obj\Debug\ProcessManager.pdb
